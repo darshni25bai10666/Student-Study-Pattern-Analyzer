@@ -1,5 +1,3 @@
-# Student-Study-Pattern-Analyzer
-Analyzing the impact of student study habits on academic performance using basic machine learning techniques.
 # 🎓 Student Study Pattern vs Performance Analyzer
 
 ## 📌 Overview
@@ -51,3 +49,19 @@ Data was collected using Google Forms from students. The dataset includes:
 
 ## ▶️ How to Run
 1. Install required libraries:
+   ```bash
+   pip install pandas numpy matplotlib seaborn scikit-learn
+
+🚀 Future Improvements
+Use larger and more diverse datasets
+Apply advanced ML models (Random Forest, XGBoost)
+Build a web app for real-time prediction
+Add feature importance visualization
+
+🙌 Acknowledgements
+Thanks to all students who contributed data
+Inspired by real-world student lifestyle challenges
+
+📌 Conclusion
+
+This project highlights how simple daily habits can significantly impact academic performance. By analyzing these patterns, students can make better decisions to improve their results.
