@@ -46,12 +46,6 @@ Data was collected using Google Forms from students. The dataset includes:
 - Scikit-learn
 
 ---
-
-## ▶️ How to Run
-1. Install required libraries:
-   ```bash
-   pip install pandas numpy matplotlib seaborn scikit-learn
-
 🚀 Future Improvements
 Use larger and more diverse datasets
 Apply advanced ML models (Random Forest, XGBoost)
